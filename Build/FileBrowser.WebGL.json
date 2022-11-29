@@ -1,0 +1,15 @@
+{
+"companyName": "com.gkngkc",
+"productName": "StandaloneFileBrowser",
+"dataUrl": "FileBrowser.WebGL.data.unityweb",
+"wasmCodeUrl": "FileBrowser.WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "FileBrowser.WebGL.wasm.framework.unityweb",
+"asmCodeUrl": "FileBrowser.WebGL.asm.code.unityweb",
+"asmMemoryUrl": "FileBrowser.WebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "FileBrowser.WebGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
